@@ -15,7 +15,7 @@ public class NipponYasanTest extends NipponYasanBase{
 		
 		setUp(browserToUse,urlToOpen);
 		
-		
+		nyHomePage.search(searchTerm);
 	}
 
 }
