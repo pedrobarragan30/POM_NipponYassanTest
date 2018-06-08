@@ -2,6 +2,10 @@
 *.class
 /bin/
 
+# Specific files to Ignore
+Access.java
+INITIAL GUIDE.txt
+
 # Eclipse Core      
 .project
 .settings/
